@@ -9,7 +9,7 @@ body {
 }
 
 .font-primary{
-    color: #011111
+    color: #169b9b
 }
 
 .title-icon{
@@ -40,20 +40,20 @@ About
 }
 
 #about .vocation {
-    font-size: 30px;
-    color: #ababae;
+    font-size: 17px;
+    color: #A8A8AB;
     margin-bottom: 10px;
 }
 
 #about .skills{
     font-size: 14px;
-    color: #011111
+    color: #00abae;
     margin-bottom: 10px;
 }
 
 #about .email {
     margin-top: 14px;
-    font-size: 14px;
+    font-size: 30px;
 }
 
 #about .icons {
@@ -61,7 +61,7 @@ About
     font-size:  30px;
 }
 
-#about .icons {
+#about .icons a {
     color: #000;
 }
 
