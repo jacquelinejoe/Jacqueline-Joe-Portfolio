@@ -17,6 +17,20 @@ body {
     font-weight: bold;
 }
 
+p{
+    font-size: 14px;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+a.font-black {
+    color: #000 !important;
+}
+
 /*******************
 
 About
@@ -36,7 +50,8 @@ About
 }
 
 #about .name {
-    font-size: 19;
+    font-size: 75;
+    font-weight: bold;
 }
 
 #about .vocation {
@@ -64,5 +79,55 @@ About
 #about .icons a {
     color: #000;
 }
+
+/***************************
+
+PROJECT
+
+***************************/
+
+#project {
+    margin: 64px auto;
+    width: 80%
+}
+
+#project h2 {
+    text-align: center;
+}
+
+#project .card img {
+    width: 100%;
+}
+
+#project .card-title {
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
